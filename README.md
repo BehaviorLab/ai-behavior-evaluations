@@ -19,8 +19,8 @@ Welcome to my independent research repository focusing on LLM cognitive tracing,
 
 ## 🛠️ Automated Evaluation Tooling
 
-* [**Multi-Prompt API Automation Script**](scripts/claude_behavior_test.py)
-  * *Tooling:* Python script designed to execute parallel evaluation prompt arrays directly via the Anthropic API, bypassing standard user interface wrappers. CATEGORY: behavior, advice-giving
+* [**Multi-Prompt API Automation Script**](scripts/claude_basic_advice_test.py) CATEGORY: behavior, advice-giving
+  * *Tooling:* Python script designed to execute parallel evaluation prompt arrays directly via the Anthropic API, bypassing standard user interface wrappers. 
  
-* [**Multi-Prompt API Automation Script**](scripts/claude_boundry_test.py)
-  * *Tooling:* Python script designed to execute parallel evaluation prompt arrays directly via the Anthropic API, bypassing standard user interface wrappers. CATEGORY: constraint handling, adversarial prompts, and relational behaviors.
+* [**Multi-Prompt API Automation Script**](scripts/claude_boundry_test.py) CATEGORY: constraint handling, adversarial prompts, and relational behaviors.
+  * *Tooling:* Python script designed to execute parallel evaluation prompt arrays directly via the Anthropic API, bypassing standard user interface wrappers. 
